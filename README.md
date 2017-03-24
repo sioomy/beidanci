@@ -33,4 +33,4 @@
 > node beidanci.js hexin.txt
 
     这样就启动了背单词脚本，界面如下：
-![Alt text](/beidanci/resource/01.png)
+![Alt text](https://github.com/sioomy/beidanci/blob/master/resouce/01.png?raw=true)
