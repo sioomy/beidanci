@@ -53,9 +53,7 @@
     
     上图中展示的就是作者分别按回车、输入'后再按回车、输入空格再按回车的效果
 
-    
-![Alt text](https://github.com/sioomy/beidanci/blob/master/resouce/02.png?raw=true)
-
+![Alt text](https://github.com/sioomy/beidanci/blob/master/resouce/03.png?raw=true)
     上图中展示的是作者输入print 安回车的效果，数据量比较大，请慎重
 
     好了，就这么多，程序虽然简单，但是效果还不错，请尽情享用吧！
